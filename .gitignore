@@ -1,1 +1,10 @@
 desktop.ini
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.synctex.gz
+*.gz
+texput.log
